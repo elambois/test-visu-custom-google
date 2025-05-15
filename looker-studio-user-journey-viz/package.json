@@ -1,0 +1,18 @@
+{
+  "name": "looker-studio-user-journey-viz",
+  "version": "1.0.0",
+  "description": "A custom visualization for representing user journeys through pages in Looker Studio using D3.js.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "dependencies": {
+    "d3": "^7.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
